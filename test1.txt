@@ -1,10 +1,1 @@
- Le volume dans le lecteur C s'appelle SYSTEME
- Le num‚ro de s‚rie du volume est 204B-D9E9
-
- R‚pertoire de C:\Users\HP\Documents\myprojectsgit
-
-10/07/2018  16:36    <DIR>          .
-10/07/2018  16:36    <DIR>          ..
-10/07/2018  16:36                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  71ÿ598ÿ133ÿ248 octets libres
+change 1
